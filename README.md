@@ -1,3 +1,9 @@
+# EDIT
+
+## Markdown framework for Allegro buyers-app
+
+This branch modified Package.swift file and adds [cmark-gfm](https://github.com/github/cmark-gfm) as local dependency to easily build the xcframework. Please remember to user `gfm` branch of `cmark` library to while building the framework by yourself. 
+
 # Swift Markdown
 
 Swift `Markdown` is a Swift package for parsing, building, editing, and analyzing Markdown documents.
